@@ -1,6 +1,6 @@
-#How-use-FFmpeg
+# How-use-FFmpeg
 
-##This repo is only to record how to use the powerful FFmpeg.
+## This repo is only to record how to use the powerful FFmpeg.
 
 Download [FFmpeg](https://ffmpeg.org/download.html) to your PC.
 
