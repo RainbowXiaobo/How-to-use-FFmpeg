@@ -11,3 +11,5 @@ Add Environment Variables to your System(C:\FFmpeg\bin).
 In CMD.EXE type ffmpeg -version, if no error, Congratulations! You have finished the installation and configuration of FFmpeg.
 
 How to use? ffmpeg -i xxx.mp4 xxx.mp3
+
+If you have successfully configured {yt-dlp}， {yt-dlp} will automatically use ffmpeg.
