@@ -4,5 +4,5 @@
 
 Download [FFmpeg](https://github.com/FFmpeg/FFmpeg/releases) to your PC.
 
-Unzip to your PC anywhere folder(recommended C:\).
+Unzip to your PC anywhere folder(recommended C:\\).
 
